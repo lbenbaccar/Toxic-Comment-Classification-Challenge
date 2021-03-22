@@ -36,11 +36,6 @@ The train set comments repartition between the different classes is as follow:
 
 We will provide a more in depth analysis of how many comments fall into several categories and which categories are the most correlated in our final notebook.
 
-
-### Library requirements  
-  - ...
-  - ...
-
 # Context and motivation 
 Social media has made it very easy for us to communicate quickly and easily with family, friends and acquaintances, as well as sharing experiences and letting others know of our opinions and beliefs. Our conversations and comments can be closely targeted or widely broadcast to the point that depending on the subject, they can go viral. 
 
