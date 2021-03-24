@@ -50,6 +50,5 @@ They decided to create a Kaggle challenge to address this problem. In this compe
 [Click here to go to the Kaggle Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 # References
-> ...
-> ...
+> Kowsari K, Jafari Meimandi K, Heidarysafa M, Mendu S, Barnes L, Brown D. Text Classification Algorithms: A Survey. Information. 2019
 
