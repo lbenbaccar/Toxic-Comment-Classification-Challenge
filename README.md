@@ -4,7 +4,7 @@
 Before explaining the project, here are the description of each file. 
 | Python files | Description |
 | ------ | ------ |
-| `Toxic_comments_classification.ipynb.py` | Project Google Colab |
+| `Toxic_comments_classification.ipynb` | Project Google Colab |
 | `Report.pdf` | Project report |
 
 We have at our disposal a dataset of comments from Wikipedia’s talk page edits. The data folder available on [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) is composed by 4 files which are the following:
